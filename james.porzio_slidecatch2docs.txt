@@ -1,0 +1,76 @@
+James Porzio
+Slide and Catch Lab Part 2
+
+# import necessary modules like pygame, simpleGE, and random
+
+# define class for falling gold
+
+# initialize gold
+
+# set image for gold
+
+# scale sprite correctly
+
+# reset sprite position
+
+# method to reset gold      
+
+# gold starts falling from sky
+
+# random integer for x 
+
+# random integer for y speed
+
+# method to check if gold is off screen       
+
+# reset when gold is off screen
+
+# define new class for the robot character
+
+# initialize robot
+
+# set image for robot
+
+# scale sprite correctly
+
+# robot starts on the ground
+
+# robot move speed
+
+# method for movement
+
+# move robot left if left arrow key is pressed
+
+# move robot right if right arrow key is pressed
+
+# define class for game
+
+# initialize game
+
+# set image for background
+
+# set sound for collision 
+
+# create robot
+
+# amount of gold
+
+# create gold
+
+# add robot and gold sprite to scene
+
+# method for collision
+
+# robot gold collision
+
+# play my original sound
+
+# reset gold
+
+# define new function for main
+
+# run game class
+
+# start game
+
+# if name is main, call main function to start game
