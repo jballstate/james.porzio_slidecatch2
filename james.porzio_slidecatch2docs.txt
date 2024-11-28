@@ -43,21 +43,49 @@ Slide and Catch Lab Part 2
 
 # move robot right if right arrow key is pressed
 
+# move robot up if up arrow key is pressed
+
+# move robot down if down arrow key is pressed
+
+# define class for score
+
+# initialize score
+
+# score amount text
+
+# score amount text position
+
+# define class for time      
+
+# initialize time 
+
+# amount time left text
+
+# amount time left text position
+
 # define class for game
 
 # initialize game
 
 # set image for background
 
+# create game timer
+
+# set timer to 5 seconds
+
+# starting score
+
 # set sound for collision 
 
 # create robot
 
-# amount of gold
-
 # create gold
 
-# add robot and gold sprite to scene
+# add game score
+
+# add game timer
+
+# add robot, gold, time, and score sprite to scene
 
 # method for collision
 
@@ -67,10 +95,80 @@ Slide and Catch Lab Part 2
 
 # reset gold
 
+# increase score by 1 when you touch gold
+
+# countdown timer  
+
+# if time is 0, game is over
+
+# define class for instructions
+
+# initialize instructions
+
+# set image for background
+
+# Play makes game start
+
+# label to make instructions text
+
+# game instructions
+
+# instructions postion
+
+# instructions size
+
+# your score becomes previous score
+
+# previous score text
+
+# previous score text position
+
+# add play button
+
+# play button text
+
+# play button position
+
+# add quit button
+
+# quit button text
+
+# quit button position
+
+# add instructions, score, quit, and play sprite to scene
+
+# method for buttons
+
+# if you click quit button
+
+# response is quit
+
+# stop scene
+
+# if you click play button
+
+# response is play
+
+# stop scene
+
 # define new function for main
+
+# initial score is 0
+
+# game loop
+
+# display score on instructions scene   
+
+# instructions scene
+
+# if user chooses play                
 
 # run game class
 
 # start game
+
+# show score from game
+
+# if user chooses quit, end game loop
 
 # if name is main, call main function to start game
